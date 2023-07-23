@@ -38,47 +38,6 @@ NIHT is an improved version of IHT. It also aims to reconstruct sparse vectors f
 
 The main theorem proves the convergence of the NIHT algorithm. It states that under certain conditions on the asymmetric restricted isometry constants of the matrix `A`, the NIHT algorithm converges to the original sparse vector `x`. The theorem also provides an upper bound on the reconstruction error.
 
-## Usage
-
-To use the algorithms, simply include the LaTeX files and call the `IHT` and `NIHT` functions with appropriate parameters.
-
-```latex
-\documentclass{amsart}
-
-% Include necessary packages and commands
-
-\begin{document}
-
-% Use the IHT and NIHT algorithms with desired parameters
-
-\end{document}
-```
-
-## Example
-
-```latex
-\documentclass{amsart}
-% Include necessary packages and commands
-
-\begin{document}
-
-% Define input matrix A, measurements y, sparsity level k, and error tolerance tol
-
-\title{Iterative Hard Thresholding and Normalized Iterative Hard Thresholding \\[1ex] \large MAT-314 Final Project}
-\author{Diogo Tandeta Tartarotti and Henry Dworkin}
-\date{May 2023}
-
-\maketitle
-
-% Include code for IHT and NIHT functions
-
-% State and prove the main theorem
-
-% Provide usage examples and explanations
-
-\end{document}
-```
-
 ## License
 
 This code is provided under the [MIT License](LICENSE). Feel free to use and modify it for your projects.
