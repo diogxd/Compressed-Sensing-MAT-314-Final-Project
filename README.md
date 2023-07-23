@@ -1,4 +1,4 @@
-# README: Iterative Hard Thresholding and Normalized Iterative Hard Thresholding
+# Iterative Hard Thresholding and Normalized Iterative Hard Thresholding
 
 ## Introduction
 
